@@ -1,0 +1,37 @@
+,object_id,degree_type,subject,institution,graduated_at,object_id_numeric,acquisition_id,price_amount,price_currency_code,acquired_at,acquiring_object_id_numeric,acquired_object_id_numeric
+0,p:1238,BA,History / Political Science,"University of California, Los Angeles (UCLA)",2005-01-01,1238,96,1000000.0,USD,2005-10-05,29,1238
+1,p:9794,MBA,,Yale University,1991-01-01,9794,512,21000.0,USD,2008-07-01,5038,9794
+2,p:9794,BS,computer science,Hebrew University,1986-01-01,9794,512,21000.0,USD,2008-07-01,5038,9794
+3,p:21982,MS,Middle Eastern Studies,Harvard University,2006-01-01,21982,1086,1000000.0,USD,2009-04-22,19951,21982
+4,p:21982,BA,Chinese Studies,University of Cambridge,2004-01-01,21982,1086,1000000.0,USD,2009-04-22,19951,21982
+5,p:28850,BA,Business and Marketing,Sheffield University Management School,1996-01-01,28850,1829,495000.0,USD,2008-05-26,28851,28850
+6,p:31105,BA,"History, Political Science, Communications",SUNY Buffalo,2000-01-01,31105,5885,200000.0,USD,2011-07-08,47521,31105
+7,p:32231,D.Phil,Economic Statecraft,University of Oxford,2003-01-01,32231,2290,616000.0,USD,2008-01-15,32232,32231
+8,p:13918,BS,Business Computing,University of Applied Science HTW Berlin,2009-01-01,13918,755,836000.0,USD,2008-09-09,475,13918
+9,p:42612,MS,Engineering Physics,Université libre de Bruxelles,2003-01-01,42612,3044,50000.0,USD,2010-02-19,41425,42612
+10,p:42612,PhD,Physics,Université libre de Bruxelles,2007-01-01,42612,3044,50000.0,USD,2010-02-19,41425,42612
+11,p:26753,French equivalent of MSC,Network Architecture,ESIGETEL,2001-01-01,26753,1521,610000.0,USD,2009-06-17,26755,26753
+12,p:78368,BS,Business Administration: Information Systems,Portland State University,2007-01-01,78368,7041,1000000.0,USD,2012-05-01,157002,78368
+13,p:31105,MS,"New Media Design, SEO, SEM, social web media",State University of New York at Buffalo,2010-01-01,31105,5885,200000.0,USD,2011-07-08,47521,31105
+14,p:152912,MCA,Computers,Sree Saraswathi Thyagaraja College,2007-01-01,152912,6919,14250.0,USD,2012-01-16,152288,152912
+15,p:152912,Computers,BSc,Sree Saraswathi Thyagaraja Collecge,2004-01-01,152912,6919,14250.0,USD,2012-01-16,152288,152912
+16,p:84358,BS,Marketing & Human Resource Mgnt,Northeastern University,1996-01-01,84358,5966,1400.0,USD,2011-06-25,83521,84358
+17,p:22116,MBA,,"Northwestern University, Kellogg School of Management",2000-01-01,22116,1090,12000.0,USD,2007-05-01,22119,22116
+18,p:22116,BS,Finance,The Wharton School of the University of Pennsylvania,1994-01-01,22116,1090,12000.0,USD,2007-05-01,22119,22116
+19,p:193355,BBA,"Finance, International Business, Marketing",University of Wisconsin-Madison,1986-01-01,193355,8429,330000.0,USD,2013-03-28,192899,193355
+20,p:193754,BS,Industrial Engineering and Management,Tel Aviv University,1993-01-01,193754,9010,1100000.0,USD,2012-10-12,233344,193754
+21,p:195920,B.A. Humanities,Theatre,USC,1993-01-01,195920,8499,420000.0,USD,2013-02-14,195921,195920
+22,p:39055,,Exec Education,Harvard Business School,2010-01-01,39055,2746,550000.0,USD,2009-12-30,39054,39055
+23,p:198266,BS,Computer Science,Oregon State University,1992-01-01,198266,8528,10000.0,USD,2012-12-18,198267,198266
+24,p:43983,BS,Computer Science,University of Tennessee-Knoxville,1994-01-01,43983,3091,1000000.0,USD,2010-03-16,25574,43983
+25,p:198126,MS,Biostatistics,Columbia University,2007-01-01,198126,8527,400000.0,USD,2000-08-01,198127,198126
+26,p:30963,BA,Economics,Boston College,1997-01-01,30963,2163,310000.0,USD,2009-08-13,30962,30963
+27,p:226868,MBA,Finance,Widener University,1989-01-01,226868,8893,50000.0,USD,2013-01-07,226873,226868
+28,p:226868,BS,Finance/Marketing - McIntire School of Commerce,University of Virginia,1985-01-01,226868,8893,50000.0,USD,2013-01-07,226873,226868
+29,p:257997,PhD,Biomedical Sciences,Faculdade de Medicina da Universidade de Lisboa,2011-01-01,257997,9420,12000.0,USD,2009-10-28,246335,257997
+30,p:257997,MS,Microbiology and Genetics,Faculdade de Ciências da Universidade de Lisboa,2005-01-01,257997,9420,12000.0,USD,2009-10-28,246335,257997
+31,p:258023,BA,,University of Michigan - Ann Arbor,2009-01-01,258023,9443,12900.0,USD,2008-04-18,246335,258023
+32,p:258023,MA,,University of Michigan - Ann Arbor,2010-01-01,258023,9443,12900.0,USD,2008-04-18,246335,258023
+33,p:258045,MS,,Northeastern University School of Law,1996-01-01,258045,9457,1200.0,USD,2008-01-01,246335,258045
+34,p:258055,MBA,,Harvard Business School,1992-01-01,258055,9467,1200.0,USD,2008-03-11,246335,258055
+35,p:258055,BA,Physics,Harvard University,1988-01-01,258055,9467,1200.0,USD,2008-03-11,246335,258055

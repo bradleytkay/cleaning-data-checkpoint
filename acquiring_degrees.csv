@@ -1,0 +1,28 @@
+,object_id,degree_type,subject,institution,graduated_at,object_id_numeric,acquisition_id,price_amount,price_currency_code,acquired_at,acquiring_object_id_numeric,acquired_object_id_numeric
+0,p:19951,BS,Computer Science,University of Oregon,2005-01-01,19951,1086,1000000.0,USD,2009-04-22,19951,21982
+1,p:57010,BS,Biomedical Electronics,The University of Salford,1979-01-01,57010,3841,1000.0,USD,2010-09-08,57010,56877
+2,p:9559,BS,Biological Sciences,Stanford University,1994-01-01,9559,5425,11111.0,USD,2011-04-20,9559,12734
+3,p:29092,BS,Economics,U of Minnesota - Twin Cities,1975-01-01,29092,1850,1000000.0,USD,2008-07-17,29092,29089
+4,p:72249,,Computer Aided Art & Design,Swinburne University of Technology,1994-01-01,72249,5315,450000.0,USD,2011-03-28,72249,23903
+5,p:146839,MBA,Marketing & Finance,Goa Institute Of Management,2008-01-01,146839,6648,200000.0,USD,2009-04-01,146839,146838
+6,p:155384,,Mechanical Engineering,Stanford University,2008-01-01,155384,6992,1250000.0,USD,2010-12-15,155384,29075
+7,p:155384,,MBA,Stanford University,2012-01-01,155384,6992,1250000.0,USD,2010-12-15,155384,29075
+8,p:171432,MS,"Air pollution, environmental sciences, milieubeheer, sociologie",Wageningen University,1996-01-01,171432,7634,3000.0,USD,2011-03-22,171432,44839
+9,p:494,,,University of Cambridge,1996-01-01,494,2599,1000000.0,USD,2009-11-18,494,725
+10,p:494,,,Principia College,1995-01-01,494,2599,1000000.0,USD,2009-11-18,494,725
+11,p:185523,MA,English,Youngstown State University,1996-01-01,185523,10430,60.0,USD,2010-09-02,185523,251266
+12,p:185523,BA,English,Youngstown State University,1994-01-01,185523,10430,60.0,USD,2010-09-02,185523,251266
+13,p:74232,,"Entrepreneurship, Bootstrapping",Start-Up University,1994-01-01,74232,5421,10000.0,USD,2011-05-01,74232,62116
+14,p:82725,MBA,International Management,Santa Clara University,1992-01-01,82725,6030,275000.0,USD,2011-04-04,82725,85482
+15,p:82725,MS,Computer Science,Southwest Texas State University,1985-01-01,82725,6030,275000.0,USD,2011-04-04,82725,85482
+16,p:82725,BS,Mechanical & Solar Engineering,University of Texas at Austin,1982-01-01,82725,6030,275000.0,USD,2011-04-04,82725,85482
+17,p:192899,BA,Political Science and Government,Trinity College-Hartford,1996-01-01,192899,8429,330000.0,USD,2013-03-28,192899,193355
+18,p:19786,MBA,,Manchester University,2001-01-01,19786,1009,10000.0,USD,1999-01-01,19786,19785
+19,p:19786,BA,International Finance,The Interdisciplinary Center,1998-01-01,19786,1009,10000.0,USD,1999-01-01,19786,19785
+20,p:30962,,,Boston College,1997-01-01,30962,2163,310000.0,USD,2009-08-13,30962,30963
+21,p:26599,MS,Computer Science,"University of Massachusetts, Amherst",1990-01-01,26599,1560,50000.0,USD,2008-04-14,26599,21180
+22,p:26599,MS,Computer Science,"University of Massachusetts, Amherst",1990-01-01,26599,1569,23000.0,USD,2008-03-01,26599,26895
+23,p:26599,BS,Computer Science,"Indian Institute of Technology, Madras",1988-01-01,26599,1560,50000.0,USD,2008-04-14,26599,21180
+24,p:26599,BS,Computer Science,"Indian Institute of Technology, Madras",1988-01-01,26599,1569,23000.0,USD,2008-03-01,26599,26895
+25,p:227815,,"B.S., Business Finance, Art History",California Polytechnic State University,2011-01-01,227815,9733,373.0,USD,2013-10-01,227815,268691
+26,p:227815,,"General Education, Portuguese Language",Universidade Nova de Lisboa,2009-01-01,227815,9733,373.0,USD,2013-10-01,227815,268691
